@@ -109,6 +109,10 @@ body {
   text-decoration: underline;
 }
 
+.bg-color{
+  background-color: #f8efff;
+}
+
 hr {
   margin: 1rem 0;
   color: inherit;
